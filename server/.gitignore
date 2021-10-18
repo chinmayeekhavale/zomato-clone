@@ -1,3 +1,11 @@
 /node_modules
 
 package-lock.json
+
+.env
+
+Utils/AWS/s3.js
+
+client_secret_1010676967477-72lfa6k7pbt4vhuc2mvhgobungnek736.apps.googleusercontent.com.json
+
+new_user_credentials.csv
