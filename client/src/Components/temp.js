@@ -1,6 +1,11 @@
-import React from "react";
- const Temp = () =>{
-     return <div>Hello, this is a temp</div>
+import React from 'react';
+
+const Temp = () => {
+    return (
+        <>
+            Hello, this is temp
+        </>
+    );
 };
 
 export default Temp;
